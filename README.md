@@ -3,6 +3,8 @@
 three-wheeled omni-directional mobile base A ball balancing system mounted on top This project presents an integrated robotic platform consisting of: The system demonstrates advanced sensor–actuator integration and real-time control.
 ## 1. Project Overview
 The system demonstrates practical integration between sensing elements and actuators to achieve stable physical behavior under dynamic conditions.
+![image](https://github.com/user-attachments/assets/1a816749-c8d1-4663-8f2d-9cc733a89c46)
+
 ## 2. Educational Objectives
 The main educational goals of this project are:
 - Applying sensor selection and interfacing techniques
